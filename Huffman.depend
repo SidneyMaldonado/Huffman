@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666657129 source:c:\users\aluno\downloads\huffman\main.cpp
+	<iostream>
+	<string.h>
+
